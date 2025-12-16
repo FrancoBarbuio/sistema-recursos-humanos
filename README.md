@@ -30,6 +30,5 @@ Sigue estos pasos para correr el proyecto en tu entorno local:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/FrancoBarbuio/sistema-recursos-humanos.git](https://github.com/FrancoBarbuio/sistema-recursos-humanos.git)
-cd sistema-recursos-humanos
+git clone https://github.com/FrancoBarbuio/sistema-recursos-humanos.git
 
